@@ -50,15 +50,43 @@ input {
   border-radius: 5px;
   margin-top: 10px;
   box-shadow: 0.4px 0.4px 0.4px 0.4px white;
+  padding-left: 1rem;
+  color: grey;
 }
 
 .bottom-button {
-  width: 100%;
+  width: 104%;
   height: 50px;
   background-color: rgb(60, 168, 109);
   border-radius: 5px;
   border: white;
   color: white;
   margin-top: 9px;
+  font-family: "Poppins", sans-serif;
   box-shadow: 0.4px 0.4px 0.4px 0.4px white;
+}
+
+h1 {
+  margin-bottom: 2rem;
+  font-size: 40px;
+  font-family: "Poppins", sans-serif;
+  text-decoration: none;
+  word-spacing: 0;
+  text-indent: 0;
+}
+
+p {
+  font-family: "Poppins", sans-serif;
+}
+
+#bottom-strong {
+  font-size: 10px;
+  color: rgb(228, 53, 53);
+  text-align: center;
+}
+
+#bottom-p {
+  font-size: 7px;
+  color: grey;
+  text-align: center;
 }
